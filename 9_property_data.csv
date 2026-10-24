@@ -1,0 +1,11 @@
+Property_ID,City,Bedrooms,Area_sqft,Price_INR,Property_Type
+201,Chennai,2,950,5200000,Apartment
+202,Bengaluru,3,1450,9800000,Apartment
+203,Hyderabad,3,1320,7600000,Villa
+204,Chennai,4,2100,14500000,Independent House
+205,Pune,2,1000,6100000,Apartment
+206,Bengaluru,4,2300,15800000,Villa
+207,Hyderabad,5,2800,18200000,Villa
+208,Chennai,1,650,3600000,Apartment
+209,Pune,3,1550,8900000,Independent House
+210,Hyderabad,4,1950,13200000,Apartment
